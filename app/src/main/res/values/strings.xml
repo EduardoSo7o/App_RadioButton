@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="btn_Calculate_String">Calculate</string>
+    <string name="rb_Addition_String">Adittion</string>
+    <string name="rb_Subtract_String">Subtract</string>
+    <string name="et_num1_String">Fist number</string>
+    <string name="et_num2_String">Second number</string>
+    <string name="tv_Result">Result</string>
+</resources>
